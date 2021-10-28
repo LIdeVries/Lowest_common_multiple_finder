@@ -58,4 +58,4 @@ for num in sety: #from here fix
     if scount > 0:
         total = total*(num**scount)
 
-print ('The LCM of',sety,'is',total)
+print ('The LCM of',listy,'is',total)
